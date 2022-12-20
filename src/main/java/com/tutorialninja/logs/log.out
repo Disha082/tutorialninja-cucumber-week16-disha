@@ -1,0 +1,1 @@
+2022-12-20 17:38:22 INFO  LaptopAndNotebookPage :40 - Verify the text ‘Laptops & Notebooks’ [[ChromeDriver: chrome on WINDOWS (4ca27ce42f9f89bbbf8fcf9bf6a87575)] -> xpath: //h2[contains(text(),'Laptops & Notebooks')]]
